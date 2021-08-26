@@ -1,0 +1,19 @@
+{
+  "name": "card2ex02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8savinvladimir8/CourseReact-HW01-card2ex02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8savinvladimir8/CourseReact-HW01-card2ex02/issues"
+  },
+  "homepage": "https://github.com/8savinvladimir8/CourseReact-HW01-card2ex02#readme"
+}
